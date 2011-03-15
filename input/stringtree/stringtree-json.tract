@@ -1,6 +1,6 @@
 page.title = Strnigtree JSON
 
-<h2>What is Stringtree JSON ?</h2>
+<h2>Stringtree JSON</h2>
 
 <p>Stringtree JSON is a small, neat and robust Java implementation of a reader, writer, and
 validator for the <a href='http://www.json.org/'>JSON (JavaScript Object Notation) data format</a>. The <a href='https://svn.sourceforge.net/svnroot/stringtree/trunk/src/delivery/java/org/stringtree/json/JSONReader.java'>reader</a>

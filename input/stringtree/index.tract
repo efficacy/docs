@@ -14,15 +14,15 @@ benefits come when they are used together.</p>
 
 <ul>
 
+<li><a href="templater.html">Stringtree Templater</a> - a fast and powerful template system for simply generating all kinds of
+textual output, commonly used for generating data formats such as CSV and TSV, XML for transfer of hierarchical information,
+and HTML or WML for the web.</li>
+
 <li><a href='stringtree-json.html'>Stringtree JSON</a> - a small, neat and robust implementation of a reader, writer, and
 validator for the JSON (JavaScript Object Notation) data format. The <a href='https://svn.sourceforge.net/svnroot/stringtree/trunk/src/delivery/java/org/stringtree/json/JSONReader.java'>reader</a>
 and <a href='https://svn.sourceforge.net/svnroot/stringtree/trunk/src/delivery/java/org/stringtree/json/JSONWriter.java'>writer</a>
 are one class each, with no dependencies at all. Even the <a href='https://sourceforge.net/project/showfiles.php?group_id=80689&package_id=226281&release_id=496375'>full stringtree JSON jar</a> with reader, writer,
 validator and some other useful classes weighs in at just 13kB!</li>
-
-<li>Stringtree Templater - a fast and powerful template system for simply generating all kinds of
-textual output, commonly used for generating data formats such as CSV and TSV, XML for transfer of hierarchical information,
-and HTML or WML for the web.</li>
 
 <li>Juicer - a hugely powerful and extensible text transformation "pipeline" which allows complete run-time configuration
 and management of the process. This component drives the core of the Wiki markup conversion in
