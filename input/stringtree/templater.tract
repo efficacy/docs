@@ -2,4 +2,8 @@ page.title = Stringtree Templater
 
 <h2>Stringtree Templater</h2>
 
+<p>Stringtree Templater is a general purpose templating system, 
+usable for generating all kinds of textual output, and a lot of non-textual ones, too.
+</p>
+
 
